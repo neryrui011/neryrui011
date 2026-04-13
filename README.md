@@ -164,5 +164,5 @@
 </p>
 
 <p align="center">
-  ⚠️ Remember to replace all <code>neryrui011</code> and <code>neryrui011@gmail.com</code> 
+  <code>neryrui011</code> <code>neryrui011@gmail.com</code> 
 </p>

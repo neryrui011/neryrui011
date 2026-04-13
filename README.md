@@ -164,5 +164,5 @@
 </p>
 
 <p align="center">
-  ⚠️ Remember to replace all <code>your-username</code> and <code>your@email.com</code> placeholders with your real info!
+  ⚠️ Remember to replace all <code>neryrui011</code> and <code>neryrui011@gmail.com</code> 
 </p>
